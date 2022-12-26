@@ -22,7 +22,7 @@
 
 <header>
 	<h1>Web Service Mobile JKN</h1>
-	<h2>Klinik Utama Mata Simapari Sriwijaya Eye Centre Lubuklinggau</h2>
+	<h2>Klinik Utama Mata Silampari Sriwijaya Eye Centre Lubuklinggau</h2>
 </header>
 
 <main>
